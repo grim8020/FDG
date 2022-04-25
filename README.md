@@ -1,1 +1,1 @@
-# FDG
+# FantasyDiscGolf
