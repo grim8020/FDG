@@ -10,6 +10,8 @@ import UIKit
 class HomeViewController: UIViewController {
     
     @IBOutlet weak var logoImage: UIImageView!
+
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -17,6 +19,7 @@ class HomeViewController: UIViewController {
         
         logoImage.layer.masksToBounds = true
         logoImage.layer.cornerRadius = logoImage.bounds.width / 2
+        
     }
 
 }
