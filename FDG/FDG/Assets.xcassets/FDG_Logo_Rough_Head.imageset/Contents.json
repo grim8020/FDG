@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "FDG_Logo_Rough_Head.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
